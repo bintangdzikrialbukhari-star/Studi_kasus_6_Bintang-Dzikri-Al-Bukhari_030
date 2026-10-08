@@ -36,6 +36,7 @@ Berikut ini adalah hasil output tampilan menu 1 yang menampilkan semua barang ya
 Berikut ini adalah hasil output tampilan menu 2 dimana pengguna bisa menambahkan stock di json.
 
 ### Output Pilihan 3
+<img width="397" height="157" alt="Screenshot 2026-10-08 172734" src="https://github.com/user-attachments/assets/ff335a12-3668-48eb-bb0a-c66ee319943f" />
 
 Berikut ini adalah hasil output tampilan menu 3 dimana user bisa menghentikan program.
 
