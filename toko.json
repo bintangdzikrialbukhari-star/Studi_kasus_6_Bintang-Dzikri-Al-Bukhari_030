@@ -1,0 +1,23 @@
+[
+{
+    "kode_barang": "B001",
+    "nama_barang": "Minyak Goreng 1L",
+    "kategori": "Sembako",
+    "harga": 18000,
+    "stok": 25
+},
+{
+    "kode_barang": "B002",
+    "nama_barang": "Gula Pasir 1kg",
+    "kategori": "Sembako",
+    "harga": 15000,
+    "stok": 40
+},
+{
+    "kode_barang": "B003",
+    "nama_barang": "Sabun Cuci Piring",
+    "kategori": "Pembersih",
+    "harga": 10000,
+    "stok": 15
+}
+]
